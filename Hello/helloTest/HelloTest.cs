@@ -4,7 +4,7 @@ using Hello;
 namespace helloTest
 {
 	[TestClass]
-	public class UnitTest1
+	public class HelloTest
 	{
 		[TestMethod]
 		public void TestMethod1()
