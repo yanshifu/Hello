@@ -9,7 +9,7 @@ namespace helloTest
 		[TestMethod]
 		public void TestMethod1()
 		{
-			Assert.AreEqual("Hello World", Program.createMessage());
+			Assert.AreEqual("Hello WestWorld", Program.createMessage());
 		}
 	}
 }
